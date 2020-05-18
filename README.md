@@ -12,9 +12,6 @@
 - [Scrum](#Scrum)
 
 
-
-
-
 ## MySelf
 Myself Shifar. I am currently working as an Android Developer at ThinkPalm.
 
