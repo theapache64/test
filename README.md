@@ -33,9 +33,9 @@ One of the notable open source projects I've created is ABCD. It's an app to cre
 
 ## Professional Journey
 
-2014 - Web Designer
-     - Web Developer
-     - Android Developer
+     - 2014 - Web Designer
+     - 2014.2 -> Web Developer
+     - Web Developer -> Android Developer
      - REASON : User Reach - Android higer than Web
      
 ## Open Source Projects
