@@ -1,3 +1,4 @@
 b's content
 more content for b
 final content to b
+content from b2's branch
