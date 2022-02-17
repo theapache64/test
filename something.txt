@@ -1,0 +1,6 @@
+Commit type identified via preset
+Commit type identified : ◀️ : backup : Backup source code
+git commit -m ◀️ dsfgdfg 
+[a1 9ca03a9] ◀️ dsfgdfg
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 something.txt
